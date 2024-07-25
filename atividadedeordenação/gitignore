@@ -1,0 +1,81 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ipdb
+*.opendb
+*.tlog
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Auto-generated files by IDEs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncb
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+.idea/
+.vscode/
+*.code-workspace
+
+# CodeLite specific
+*.project
+*.workspace
+
+# Qt-creator
+*.pro.user
+*.qbs.user
+*.qbs.user.*
+*.pro.user.*
+
+# MinGW
+*.d
+
+# MacOS
+.DS_Store
+
+# Backup files
+*~
+\#*\#
+.#*
+*.swp
+*.swo
+*.tmp
+*.temp
+*.log
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+Thumbs.db
