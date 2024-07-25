@@ -21,7 +21,7 @@ Para executar cada programa, utilize a linha de comando conforme descrito:
   ```sh
   ./test.sh
   ```
-  Dessa maneira o programa irá testar as instâncias fornecidas e apresentar o tempo de execução em microsegundos de cada caso teste.
+  Dessa maneira o programa irá testar as instâncias fornecidas de forma automática na pasta test.cases(as instâncias passada pelo professor) e apresentar o tempo de execução em microsegundos de cada caso teste.
 
 Exemplos :
 
