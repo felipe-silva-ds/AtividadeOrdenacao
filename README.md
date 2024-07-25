@@ -37,15 +37,16 @@ Executando teste com o arquivo: test_cases/num.1000.2.in
 Selection Sort: 3770 microsegundos
 Insertion Sort: 3865 microsegundos
 -------------------------------------------------
-Executando teste com o arquivo: test_cases/num.1000.3.in
+Executando teste com o arquivo: test_cases/num.100000.3.in
 ---------- Tempo Gasto ----------
-Selection Sort: 4033 microsegundos
-Insertion Sort: 2731 microsegundos
+Selection Sort: 36476236 microsegundos
+Insertion Sort: 25833694 microsegundos
 -------------------------------------------------
-Executando teste com o arquivo: test_cases/num.1000.4.in
+-------------------------------------------------
+Executando teste com o arquivo: test_cases/num.10000.4.in
 ---------- Tempo Gasto ----------
-Selection Sort: 1056 microsegundos
-Insertion Sort: 673 microsegundos
+Selection Sort: 96260 microsegundos
+Insertion Sort: 61676 microsegundos
 -------------------------------------------------
 ```
 
