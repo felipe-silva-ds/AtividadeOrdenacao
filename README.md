@@ -14,9 +14,9 @@ make
 
 Para executar cada programa, utilize a linha de comando conforme descrito:
 
-- **sorting_algorithms**:
+- **sorting_algorithms.cpp**:
   ```sh
-  ./teste.sh
+  ./test.sh
   ```
   Dessa maneira o programa irá testar as instâncias fornecidas e apresentar o tempo de execução em microsegundos de cada caso teste.
 
