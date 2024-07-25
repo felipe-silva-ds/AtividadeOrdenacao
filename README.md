@@ -9,6 +9,11 @@ Para compilar os programas, use o `make` com o Makefile fornecido. Execute o com
 ```sh
 make
 ```
+Depois de compilar irá aparecer uma mensagem mandando executar o seguinte comando
+```sh
+./test.sh
+```
+
 
 ### Como Executar
 
